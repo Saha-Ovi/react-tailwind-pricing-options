@@ -33,12 +33,12 @@ const NavBar = () => {
     const [open,setOpen]=useState(false);
     const links= navLinks.map(route=><Link route={route}></Link>);
     return (
-        <nav className='flex justify-between mx-10'>
+        <nav className='flex justify-between mx-10 my-6'>
         <span onClick={()=>setOpen(!open)} className='flex gap-3'>
             {
                 open ? <X></X> : <Menu className='md:hidden'></Menu>
             }
-           <ul className='md:hidden'>
+           <ul className={`md:hidden absolute bg-amber-200 text-black ${open ? "top-12" : "-top-40"}`}>
              {
                 links
             }

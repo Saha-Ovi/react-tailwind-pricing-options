@@ -1,0 +1,91 @@
+{
+  "pricingOptions": [
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "description": "Perfect for beginners who want access to essential gym facilities.",
+      "price": "20 USD/Month",
+      "features": [
+        "Access to gym equipment",
+        "Locker facility",
+        "1 group class per week",
+        "Free WiFi"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "description": "Great for regular members who want more flexibility and guidance.",
+      "price": "40 USD/Month",
+      "features": [
+        "All Basic features",
+        "Unlimited group classes",
+        "Personal trainer (2 sessions/month)",
+        "Diet chart guidance"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "description": "Best for fitness enthusiasts who want full support and premium facilities.",
+      "price": "70 USD/Month",
+      "features": [
+        "All Standard features",
+        "Unlimited personal training",
+        "Sauna & steam bath",
+        "Priority support",
+        "Supplement discounts"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Student Plan",
+      "description": "Affordable plan designed for students with limited budget.",
+      "price": "15 USD/Month",
+      "features": [
+        "Access to gym equipment",
+        "Limited time access (6am-4pm)",
+        "2 group classes per week",
+        "Student ID required"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Family Plan",
+      "description": "Ideal for families with shared access and discounted pricing.",
+      "price": "100 USD/Month",
+      "features": [
+        "Up to 4 family members",
+        "All Premium features",
+        "Kids fitness area access",
+        "Family locker room",
+        "Weekend group classes"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Group Plan",
+      "description": "Perfect for friends or corporate teams joining together.",
+      "price": "180 USD/Month",
+      "features": [
+        "Up to 6 members",
+        "All Standard features",
+        "Group training sessions",
+        "Team fitness challenges",
+        "Discounted renewal"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Annual Plan",
+      "description": "Long-term plan with maximum benefits and cost savings.",
+      "price": "400 USD/Year",
+      "features": [
+        "All Premium features",
+        "2 months free",
+        "Free gym merchandise",
+        "Annual fitness assessment"
+      ]
+    }
+  ]
+}
