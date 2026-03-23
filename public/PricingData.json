@@ -17,6 +17,7 @@
       "name": "Standard Plan",
       "description": "Great for regular members who want more flexibility and guidance.",
       "price": "40 USD/Month",
+      "popular":"true",
       "features": [
         "All Basic features",
         "Unlimited group classes",
@@ -42,6 +43,7 @@
       "name": "Student Plan",
       "description": "Affordable plan designed for students with limited budget.",
       "price": "15 USD/Month",
+      "popular":"true",
       "features": [
         "Access to gym equipment",
         "Limited time access (6am-4pm)",
@@ -67,6 +69,7 @@
       "name": "Group Plan",
       "description": "Perfect for friends or corporate teams joining together.",
       "price": "180 USD/Month",
+      "popular":"true",
       "features": [
         "Up to 6 members",
         "All Standard features",

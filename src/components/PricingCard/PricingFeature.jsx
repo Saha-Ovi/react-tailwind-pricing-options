@@ -6,7 +6,7 @@ const PricingFeature = ({feature}) => {
     return (
 
        <ul className='my-2'>
-        <li className='flex gap-2 '><CircleCheck></CircleCheck>{feature}</li>
+        <li className='flex gap-2 items-center '><CircleCheck></CircleCheck>{feature}</li>
        </ul>
         
                  
