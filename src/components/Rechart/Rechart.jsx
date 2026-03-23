@@ -4,7 +4,7 @@ import { CartesianGrid, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts'
 const Rechart = ({resultPromise}) => {
     const resultPromiseData=use(resultPromise);
     const resultData=resultPromiseData.students;
-    console.log(resultData);
+    // console.log(resultData);
     return (
         <div style={{width:"100%",maxWidth:600} } >
             <LineChart width={1000} height={800} data={resultData}>
